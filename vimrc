@@ -113,3 +113,9 @@ let NERDTreeIgnore=['\.pyc$', '\~$'] "ignore files in NERDTree
 
 " turn on line numbers
 set nu
+
+" make the bell visual
+set visualbell
+
+" spellchecking
+set spell spellang=en_us 
