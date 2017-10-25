@@ -118,4 +118,4 @@ set nu
 set visualbell
 
 " spellchecking
-set spell spellang=en_us 
+:setlocal spell spelllang=en_us
